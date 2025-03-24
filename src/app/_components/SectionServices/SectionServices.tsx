@@ -33,6 +33,11 @@ export function SectionServices() {
               text="Acompanhe a fatura do seu cartão de crédito e faça compras online com seu
                 cartão virtual"
             />
+            <ListItem
+              image={IconCard}
+              text="Acompanhe a fatura do seu cartão de crédito e faça compras online com seu
+                cartão virtual"
+            />
           </ul>
         </div>
         <Image src={Phone} alt="phone" />
